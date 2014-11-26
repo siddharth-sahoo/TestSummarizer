@@ -1,0 +1,55 @@
+body {
+	height : 100%;
+	background : linear-gradient(0deg,#ffffff,#bdc3c7 200%) no-repeat;
+}
+
+#report {
+	font-family : Segoe UI, Open Sans, Arial, Helvetica, sans-serif;
+	font-size : 14px;
+	color : #402C16;
+}
+
+table {
+	margin-left : 10%;
+	margin-right : 10%;
+	width : 80%;
+}
+
+table, td, th {
+	font-family : Segoe UI, Open Sans, Arial, Helvetica, sans-serif;
+	font-size : 16px;
+	font-weight : lighter;
+	border : 1px solid #555555;
+	border-collapse : collapse;
+	height : 30px;
+}
+
+tr:hover {
+	background-color : #3498db;
+}
+
+th {
+	font-family : Segoe UI, Open Sans, Arial, Helvetica, sans-serif;
+	font-size : 18px;
+	font-weight : bolder;
+	text-align : center;
+	background-color : #1d1d1d;
+	color : #ecf0f1;
+}
+
+h1 {
+	font-family : batang, georgia, times new roman;
+	color : #555555;
+	text-align : center;
+	font-size : 60px;
+	font-weight : normal;
+}
+
+h4 {
+	font-family : Segoe UI, Open Sans, Arial, Helvetica, sans-serif;
+	color : #777777;
+	text-align : center;
+	font-size : 25px;
+	font-weight : lighter;
+	font-style : italic;
+}
