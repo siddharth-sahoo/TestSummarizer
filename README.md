@@ -29,4 +29,4 @@ report.publish("asd.html");
 ````
 
 Here is how the above report would look like:
-![Sample Report](http://github.opslab.sv2.tellme.com/OnlineAutomation/TestSummarizer/raw/master/SampleReport.png)
+![Sample Report](https://github.com/siddharth-sahoo/TestSummarizer/blob/master/SampleReport.png)
